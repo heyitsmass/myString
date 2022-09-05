@@ -1,2 +1,16 @@
 # myString
-a string implementation
+
+Standard Functionality: 
+
+```c++
+
+  // Operator Overloads 
+    
+    += 
+    =
+    + 
+    [] 
+   
+  // Functions 
+
+```
