@@ -1,0 +1,2 @@
+# myString
+a string implementation
